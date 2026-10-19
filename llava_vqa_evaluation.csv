@@ -1,0 +1,76 @@
+Image,Question,LLaVA Answer,Human Evaluation
+class_1.jpg,What is the main subject of this image?," The main subject of this image is a large passenger jet, specifically a North American airplane, sitting on the runway at an airport.",1
+class_1.jpg,How many people are visible in this image?,"1 person is visible in the image, standing near the airplane.",1
+class_1.jpg,What objects can you identify?,"1. A large passenger jet airplane
+2. A truck
+3. A person
+4. A car
+5. A bus
+6. A tree
+7. A building
+8. A fence
+9. A person with a backpack
+10. A person with a suitcase
+11. A person with a handbag
+12. A person with a cell phone
+13. A person with a tie
+14. A person with a hat
+15. A person with a shirt
+16. A person with a",0
+class_1.jpg,What is happening in this image?," The image features a large North American airplane parked on the runway at an airport. The airplane is positioned on the tarmac, and there are several people around it, possibly attending to the aircraft or preparing for boarding. In addition to the airplane, there are a few cars and a truck visible in the scene, likely providing support services to the airplane. The presence of these vehicles and people suggests that the airplane is either preparing for takeoff or has recently landed.",0
+class_1.jpg,Describe the image in one sentence.,"2 airplanes are on the runway, one is a North American plane.",0
+class_10.jpg,What is the main subject of this image?," The main subject of this image is a close-up of a human brain, specifically focusing on the left side of the brain.",1
+class_10.jpg,How many people are visible in this image?,0,1
+class_10.jpg,What objects can you identify?,"1. A brain
+2. A red line
+3. A white background
+4. A red line on the brain
+5. A white background with a red line on it
+6. A white background with a red line on the brain
+7. A white background with a red line on the brain
+8. A white background with a red line on the brain
+9. A white background with a red line on the brain
+10. A white background with a red line on the brain",1
+class_10.jpg,What is happening in this image?," The image features a close-up of a human brain, with a red line drawn through the center of it. The brain is depicted in a black and white style, which adds a sense of contrast to the image. The red line divides the brain into two distinct sections, creating a visually striking representation of the organ.",1
+class_10.jpg,Describe the image in one sentence.,3D image of a brain with a red line through the center.,1
+class_13.jpg,What is the main subject of this image?,1. A butterfly made out of paper.,1
+class_13.jpg,How many people are visible in this image?,0,1
+class_13.jpg,What objects can you identify?,"1. A butterfly made of paper
+2. A black background or table
+3. A white paper butterfly
+4. A paper butterfly with wings
+5. A paper butterfly with wings and antennae
+6. A paper butterfly with wings and antennae on a black background
+7. A paper butterfly with wings and antennae on a black table
+8. A paper butterfly with wings and antennae on a black surface
+9. A paper butterfly with wings and antennae on a",1
+class_13.jpg,What is happening in this image?," The image features a close-up of a paper butterfly, which is made from a single sheet of paper. The butterfly is folded and cut into the shape of a butterfly, showcasing its intricate details. The paper butterfly is placed on a black background, which emphasizes its shape and texture. The simplicity of the paper butterfly and the black background create a visually appealing and minimalist composition.",1
+class_13.jpg,Describe the image in one sentence.,3D paper butterfly with wings and antennae.,1
+class_26.jpg,What is the main subject of this image?,1. A man is the main subject of this image.,0
+class_26.jpg,How many people are visible in this image?,1,1
+class_26.jpg,What objects can you identify?,"1. A man
+2. A crocodile
+3. A black jacket
+4. A white shirt
+5. A pair of glasses
+6. A man's head
+7. A crocodile's mouth
+8. A man's face
+9. A crocodile's teeth
+10. A man's hair
+11. A crocodile's tongue
+12. A man's neck
+13. A crocodile's jaw
+14. A man's smile
+",1
+class_26.jpg,What is happening in this image?," In the image, a man is playfully posing with a large alligator, as if he is being swallowed by its open mouth. The alligator's mouth is wide open, and the man is standing in front of it, making the scene appear humorous and lighthearted. The man is wearing a tie, which adds a touch of formality to the playful moment.",1
+class_26.jpg,Describe the image in one sentence.,2 men are standing next to a large alligator.,0
+class_31.jpg,What is the main subject of this image?," The main subject of this image is a beaded dragonfly or butterfly charm, which is attached to a bracelet or necklace.",1
+class_31.jpg,How many people are visible in this image?,0,1
+class_31.jpg,What objects can you identify?,"1. A blue and white butterfly or dragonfly charm.
+2. A bead or a small piece of jewelry.
+3. A string or a cord.
+4. A cross or a piece of jewelry.
+5. A white and blue butterfly or dragonfly charm.",1
+class_31.jpg,What is happening in this image?," The image features a close-up view of a blue and white butterfly wing, which is attached to a piece of jewelry. The butterfly wing is positioned on a table, and it appears to be a part of a necklace or a decorative piece. The wing is the main focus of the image, and it is displayed prominently in the foreground.",0
+class_31.jpg,Describe the image in one sentence.,2 blue and white butterfly wings on a silver chain.,0
